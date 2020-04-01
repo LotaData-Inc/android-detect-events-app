@@ -23,7 +23,7 @@ Our SDK uses [Google Awareness API](https://developers.google.com/awareness) to 
 
 
 ## Fence transition
-Our SDK **DOESN'T use** [Google Geogence API](https://developers.google.com/location-context/geofencing) to detect fence transitions.
+Our SDK **DOESN'T use** [Google Geogence API](https://developers.google.com/location-context/geofencing) to detect fence transition.
 
 What are the advantages?
  - With our SDK there isn't a limit of 100 geofences per app like Google Geogence API;
